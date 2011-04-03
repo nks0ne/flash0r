@@ -1,3 +1,8 @@
+#!/bin/bash
+# flash0r - play current opened flash video containers 
+#
+# depends on: grep, mplayer, sed
+
 # get PID of plugin-container
 # maybe this is usefull too ps -A | grep containe |  cut -d ' ' -f 1  (-f  1-2 etc)
 pwd=$(pwd)
