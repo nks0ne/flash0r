@@ -1,0 +1,4 @@
+just do the following steps to use:
+chmod +x flash.sh
+and then use it (and pass parameters to mplayer)
+/path/to/flash.sh "-vo x11 -fs"
